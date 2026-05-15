@@ -1,4 +1,4 @@
-🪄🖼️ Deep Learning Based Image Colorization using Custom CNN Architecture
+
 
 <div align="center">     
 
