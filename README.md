@@ -2,7 +2,7 @@
 
 <div align="center">     
 
-Automatic Black & White Image Colorization using Deep Learning
+🪄🖼️ Automatic Black & White Image Colorization using Deep Learning
 
 A custom-built CNN model capable of generating realistic colorized images from grayscale inputs using advanced attention mechanisms and U-Net architecture.
 
